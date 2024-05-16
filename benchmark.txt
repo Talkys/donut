@@ -1,0 +1,50 @@
+C
+real    0m5,264s
+user    0m5,027s
+sys     0m0,146s
+=================
+C++
+real    0m5,166s
+user    0m4,407s
+sys     0m0,207s
+=================
+Go
+real    0m9,544s
+user    0m5,541s
+sys     0m3,976s
+=================
+Python
+real    1m5,555s                                                               
+user    1m5,322s
+sys     0m0,140s
+=================
+Kotlin
+real    0m9,594s
+user    0m6,490s
+sys     0m4,152s
+=================
+Java
+real    0m9,879s
+user    0m7,601s
+sys     0m4,237s
+=================
+Julia
+real    0m14,777s
+user    0m8,517s
+sys     0m6,001s
+=================
+Pascal
+real    0m10,246s
+user    0m6,603s
+sys     0m3,608s
+=================
+C#
+real    0m20,872s
+user    0m13,604s
+sys     0m7,109s
+=================
+Perl
+real    1m23,243s
+user    1m22,974s
+sys     0m0,174s
+=================
